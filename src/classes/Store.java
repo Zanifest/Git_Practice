@@ -6,4 +6,8 @@ public class Store {
 
     // clothes
 
+    // gift cards
+
+    // paper towels
+
 }
