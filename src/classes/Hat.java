@@ -6,4 +6,6 @@ public class Hat {
 
     // baseball hat
 
+    // basketball hat
+
 }
